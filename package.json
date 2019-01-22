@@ -1,0 +1,17 @@
+{
+  "name": "circuittest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "opossum": "^1.9.0"
+  }
+}
